@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 49033cb1a1b724e5aa637164ca81b455
+timeCreated: 1441641223
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: smb2_Mario_Raccon_Sheet_0
+    21300002: smb2_Mario_Raccon_Sheet_1
+    21300004: smb2_Mario_Raccon_Sheet_2
+    21300006: smb2_Mario_Raccon_Sheet_3
+    21300008: smb2_Mario_Raccon_Sheet_4
+    21300010: smb2_Mario_Raccon_Sheet_5
+    21300012: smb2_Mario_Raccon_Sheet_6
+    21300014: smb2_Mario_Raccon_Sheet_7
+    21300016: smb2_Mario_Raccon_Sheet_8
+    21300018: smb2_Mario_Raccon_Sheet_9
+    21300020: smb2_Mario_Raccon_Sheet_10
+    21300022: smb2_Mario_Raccon_Sheet_11
+    21300024: smb2_Mario_Raccon_Sheet_12
+    21300026: smb2_Mario_Raccon_Sheet_13
+    21300028: smb2_Mario_Raccon_Sheet_14
+    21300030: smb2_Mario_Raccon_Sheet_15
+    21300032: smb2_Mario_Raccon_Sheet_16
+    21300034: smb2_Mario_Raccon_Sheet_17
+    21300036: smb2_Mario_Raccon_Sheet_18
+    21300038: smb2_Mario_Raccon_Sheet_19
+    21300040: smb2_Mario_Raccon_Sheet_20
+    21300042: smb2_Mario_Raccon_Sheet_21
+    21300044: smb2_Mario_Raccon_Sheet_22
+    21300046: smb2_Mario_Raccon_Sheet_23
+    21300048: smb2_Mario_Raccon_Sheet_24
+    21300050: smb2_Mario_Raccon_Sheet_25
+    21300052: smb2_Mario_Raccon_Sheet_26
+    21300054: smb2_Mario_Raccon_Sheet_27
+    21300056: smb2_Mario_Raccon_Sheet_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: smb2_Mario_Raccon_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 219
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 219
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 220
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 219
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 224
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 174
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 175
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 176
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 175
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 175
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 175
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 132
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 132
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 133
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 132
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 132
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 133
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 89
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 89
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 45
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 45
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 47
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 47
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 6
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: smb2_Mario_Raccon_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 6
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
