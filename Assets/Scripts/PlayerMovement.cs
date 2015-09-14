@@ -8,6 +8,8 @@ public class PlayerMovement : MonoBehaviour {
 
 	private Rigidbody2D rb;
 
+	public GameObject mario;
+
 	Animator animator;
 
 	// Use this for initialization
@@ -40,5 +42,13 @@ public class PlayerMovement : MonoBehaviour {
 
 	void Jump (){
 		rb.AddForce (Vector2.up * JumpSpeed, ForceMode2D.Impulse);
+	}
+
+	void onCollisionEnter2D(Collision2D coll){
+		Debug.Log ("ik werk nu voor de if statement");
+		if (coll.gameObject.tag == "block") {
+			Debug.Log("ik werk");
+			Destroy(mario);
+		}
 	}
 }
