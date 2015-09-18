@@ -6,7 +6,10 @@ public class PlayerMovement : MonoBehaviour {
 	public float walkSpeed;
 	public float JumpSpeed;
 
+	public float acceleration;
+
 	private Rigidbody2D rb;
+	private bool touchingPlatform;
 
 	Animator animator;
 
@@ -19,9 +22,23 @@ public class PlayerMovement : MonoBehaviour {
 	void Start (){
 		animator = GetComponent<Animator> ();
 	}
+	/*
+	void FixedUpdate (){
+		if (touchingPlatform) {
+				rb.AddForce(acceleration, 0f,ForceMode2D.Force);
+		}
+	}
+	*/
+	void OnCollisionEnter (){
+		touchingPlatform = true;
+	}
+
+	void OnCollisionExit (){
+		touchingPlatform = false;
+	}
 
 	// Update is called once per frame
-	void Update () {
+	void Update (){
 		if (Input.GetKey (KeyCode.A)) {
 			transform.position -= new Vector3 (walkSpeed * Time.deltaTime, 0.0f, 0.0f);
 		}
