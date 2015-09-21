@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class PlayerMovement : MonoBehaviour {
+	public float m_score = 0;	
 
 	public float walkSpeed;
 	public float JumpSpeed;
