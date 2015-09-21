@@ -2,11 +2,10 @@
 using System.Collections;
 
 public class PlayerMovement : MonoBehaviour {
-	public float m_score = 0;	
+	public float m_score = 0;
 
 	public float walkSpeed;
 	public float JumpSpeed;
-
 	public float acceleration;
 
 	private Rigidbody2D rb;

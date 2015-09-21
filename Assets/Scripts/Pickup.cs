@@ -6,7 +6,7 @@ public class Pickup : MonoBehaviour
 	//functie is virtual zo dat die ge override kan worden
 	public virtual void PlayerHit(PlayerMovement _GO)
 	{
-		Debug.Log ("waarom doet hij et nie");
+		//dit is de basis van de PlayerHit functie
 	}
 	
 	void OnTriggerEnter2D(Collider2D coll)
@@ -15,7 +15,7 @@ public class Pickup : MonoBehaviour
 		if (l_player != null)//IS dit NIET null dan hebben we de collider van de speler
 		{
 			PlayerHit(l_player);
-			Debug.Log ("ik doe het");
+			
 		}
 	}
 }

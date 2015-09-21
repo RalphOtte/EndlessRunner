@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BadMushroom : Pickup//inherit van pickup
-{
+public class BadMushroom : Pickup {
+
 	//override = je maakt een extensie van die functie
 	public override void PlayerHit(PlayerMovement _GO)
 	{
@@ -10,6 +10,5 @@ public class BadMushroom : Pickup//inherit van pickup
 		//voeg hier code toe zo dat de speler zijn score omhoog gaat
 		_GO.m_score -= 100;
 		Destroy (this.gameObject);
-		Debug.Log ("ik doe het");
-	}	
+	}
 }
